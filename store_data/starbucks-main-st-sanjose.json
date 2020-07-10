@@ -1,0 +1,17 @@
+{
+    "display_title": "For Delivery",
+    "name": "Starbucks",
+    "tagline": "We make best coffee",
+    "items": [
+        {
+            "name": "HotChocolate",
+            "tagline": "Try our new hot chocolate with fresh brewed coco powder.",
+            "price": "$3.99"
+        },
+        {
+            "name": "Pike",
+            "tagline": "Our signature medium-roasted with a smooth, balanced and rich flavor, this is the perfect everyday coffee in a cup.",
+            "price": "$2.99"
+        }
+    ]
+}

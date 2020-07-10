@@ -1,0 +1,58 @@
+{
+    "0": {
+        "display_title": "For Delivery",
+        "results": [
+            {
+                "media_url": "./assets/images/dunkin.jpg",
+                "name": "Dunkin",
+                "tagline": "America runs on Dunkin",
+                "slug": "dunkin-first-st-sanjose",
+                "address": "11 First St, San Jose CA 95122",
+                "hours": {
+                    "state": "Closed",
+                    "current_time": "some time"
+                },
+                "delivery_fee": "$3.99 Delivery"
+            },
+            {
+                "media_url": "./assets/images/starbucks.jpg",
+                "name": "Starbucks",
+                "tagline": "We make the best coffee",
+                "slug": "starbucks-main-st-sanjose",
+                "address": "20 Main St, San Jose CA 95102",
+                "hours": {
+                    "state": "Open",
+                    "current_time": "some time"
+                },
+                "delivery_fee": "$3.99 Delivery"
+            },
+            {
+                "media_url": "./assets/images/seven-eleven.jpg",
+                "name": "7-Eleven",
+                "tagline": "you can always find it here",
+                "slug": "7eleven-san-jose-story-rd",
+                "address": "2032 Story Rd, San Jose CA 95122",
+                "hours": {
+                    "state": "Open",
+                    "current_time": "some time"
+                },
+                "delivery_fee": "$3.99 Delivery"
+            },
+            {
+                "name": "Peets",
+                "tagline": "Best coffee in town",
+                "slug": "sf-castro-st",
+                "address": "castro st",
+                "hours": {
+                    "state": "Open",
+                    "current_time": "some time"
+                },
+                "delivery_fee": "$4 Delivery"
+            }
+        ]
+    },
+    "query": "coffee",
+    "sort": "",
+    "limit": 0,
+    "page": 0
+}

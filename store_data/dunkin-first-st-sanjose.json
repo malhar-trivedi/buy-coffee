@@ -1,0 +1,19 @@
+{
+    "display_title": "For Delivery",
+    "name": "Dunkin",
+    "tagline": "America runs on Dunkin",
+    "items": [
+        {
+            "media_url": "https://d1725r39asqzt3.cloudfront.net/1cb86454-1ff3-47f6-bf29-1ff77d4bcc9f/orig.jpg",
+            "name": "Pink Drink",
+            "tagline": "Our crisp, Strawberry Acai Refreshers® Beverage, with its accents of passion fruit, is combined with creamy Coconutmilk. It’s a fruity.",
+            "price": "$3.99"
+        },
+        {
+            "media_url": "https://d1725r39asqzt3.cloudfront.net/1cb86454-1ff3-47f6-bf29-1ff77d4bcc9f/orig.jpg",
+            "name": "Pike",
+            "tagline": "Our signature medium-roasted with a smooth, balanced and rich flavor.",
+            "price": "$2.99"
+        }
+    ]
+}

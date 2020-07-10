@@ -1,0 +1,17 @@
+{
+    "display_title": "For Delivery",
+    "name": "7-Eleven",
+    "tagline": "you can always find it here",
+    "items": [
+        {
+            "name": "Slurpee",
+            "tagline": "Cool off this summer with our new slurpee",
+            "price": "$1.99"
+        },
+        {
+            "name": "Coffee",
+            "tagline": "Our signature medium-roasted with a smooth, balanced and rich flavor.",
+            "price": "$2.99"
+        }
+    ]
+}
